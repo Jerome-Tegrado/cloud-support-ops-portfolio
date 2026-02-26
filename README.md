@@ -4,10 +4,10 @@ Hello, my name is **Jerome Tegrado**. This repository is the **hub** for my cont
 I’m building a portfolio of **hands-on troubleshooting packs, runbooks, artifacts, and proof outputs**, mainly using **Microsoft Azure**, so I can demonstrate real support skills for **entry-level roles**.
 
 ## Start Here (Week 1)
-- **Ticket Packs Repo:** TODO (paste link)
-- **Support Pack #1 Case File:** TODO (paste link to file/folder)
-- **Runbook (Website/Service Unreachable):** TODO (paste link)
-- **Diagram Artifact (Client → DNS → Server → HTTP):** TODO (paste link)
+- **Ticket Packs Repo:** https://github.com/Jerome-Tegrado/cloud-support-tickets-pack
+- **Support Pack #1 Case File:** https://github.com/Jerome-Tegrado/cloud-support-tickets-pack/blob/main/week01/ticket-case-file.md
+- **Runbook (Website/Service Unreachable):** https://github.com/Jerome-Tegrado/cloud-support-tickets-pack/blob/main/week01/runbook-website-unreachable.md
+- **Diagram Artifact (Client → DNS → Server → HTTP):** https://github.com/Jerome-Tegrado/cloud-support-tickets-pack/blob/main/week01/diagram.drawio
 - **DataCamp Proof (AZ-900 progress):** TODO (paste link or file path)
 - **Azure RG + Cloud Shell Proof (optional):** TODO (paste link if available)
 
